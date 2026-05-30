@@ -24,3 +24,6 @@ for event in response:
         content.append(delta.content)
 
 print("".join(content))
+print("Done!")
+#In line view
+
